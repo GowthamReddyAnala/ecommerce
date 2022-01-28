@@ -1,3 +1,9 @@
 .navbar-style {
     background-color: teal !important;
 }
+.red-highlight {
+    color: red;
+}
+.green-highlight {
+    color: green;
+}
